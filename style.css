@@ -1,0 +1,21 @@
+img { width: 100px;
+    height: 100px;
+    text-align: center;
+}
+table {
+    border: 1px solid blue;
+}
+td {
+    text-align: center;
+}
+  
+nav {
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+    border: 3px solid royalblue;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 5px 0;
+    background-color: aqua;
+}
